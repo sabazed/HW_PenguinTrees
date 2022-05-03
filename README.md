@@ -1,3 +1,5 @@
+# Penguin Trees
+
 <p>Trees are, besides lists, stacks and queues, another flexible data-structure with many applications.
 In general, a tree consists of nodes which may hava multiple successors.
 The topmost node which has no further predecessor is also called root node. The bottom nodes without successors are the
